@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullScreenAlert", "FullScreenAlert\FullScreenAlert.csproj", "{C59B4456-E9AB-4635-9370-8BAE0F0D2DBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C59B4456-E9AB-4635-9370-8BAE0F0D2DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C59B4456-E9AB-4635-9370-8BAE0F0D2DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C59B4456-E9AB-4635-9370-8BAE0F0D2DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C59B4456-E9AB-4635-9370-8BAE0F0D2DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93C9172E-4B72-4D40-B1D2-68B963CF1641}
+	EndGlobalSection
+EndGlobal
